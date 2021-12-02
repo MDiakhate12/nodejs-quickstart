@@ -1,4 +1,4 @@
-# Deploy Simple NodeJS app to Cloud RUN
+# Deploy Simple NodeJS app to Google Cloud RUN
 
 ## With container registry
 ```bash
